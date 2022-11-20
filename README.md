@@ -9,6 +9,6 @@ pip install -r requirements.txt
 ```
 Запуск проекта:
 ```
-python main.py
+python manage.py runserver 0.0.0.0:8000
 ```
 После запуска нужно в браузере перейти на страницу http://127.0.0.1:8000/ 
