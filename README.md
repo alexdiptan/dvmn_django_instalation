@@ -7,6 +7,7 @@
 ```
 pip install -r requirements.txt
 ```
+Заполнить файл `.env`. Пример необходимых для проекта переменных есть в файле `.env_template` 
 Запуск проекта:
 ```
 python manage.py runserver 0.0.0.0:8000
